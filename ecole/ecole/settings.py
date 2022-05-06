@@ -37,7 +37,7 @@ EMAIL_HOST_PASSWORD = 'inserer ton mot de passe gmail'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
-ALLOWED_HOSTS = ['198.211.99.20', 'localhost', '127.0.0.1','efa6-41-82-165-163.eu.ngrok.io']
+ALLOWED_HOSTS = ['https://site-ue22.herokuapp.com/','127.0.0.1']
 
 
 # Application definition
