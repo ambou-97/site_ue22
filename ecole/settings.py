@@ -32,8 +32,8 @@ DEBUG = True
 #envoi email
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'suturasendmail@gmail.com'
-EMAIL_HOST_PASSWORD = 'suturaSendMail'
+EMAIL_HOST_USER = 'projet.neo.ue22@gmail.com'
+EMAIL_HOST_PASSWORD = 'Hakim1974$$'
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True

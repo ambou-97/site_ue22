@@ -56,7 +56,7 @@ def formulaire(request):
             'Formulaire en ligne envoye par:'+ prenom+nom+'- tel:'+telephone,
              message,
              email ,# expediteur
-             [settings.EMAIL_HOST_USER],# destinateur
+             ['hakim.akkioui@gmail.com'],# destinateur
              fail_silently=False,
         )
         return render(request, 'success.html')
